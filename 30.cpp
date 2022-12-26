@@ -19,6 +19,9 @@ using namespace std;
 
 #define PAUSE 1000
 
+// tyt byla Uliana
+int number = 348;
+
 int main()
 {
     setlocale(0, "");
