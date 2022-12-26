@@ -19,6 +19,17 @@ using namespace std;
 
 #define PAUSE 1000
 
+<<<<<<< Updated upstream
+=======
+// tyt byla Uliana
+int number = 348;
+
+
+// tyt byla Uliana snova
+int number = 358;
+
+
+>>>>>>> Stashed changes
 int main()
 {
     setlocale(0, "");
